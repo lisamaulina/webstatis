@@ -1,0 +1,20 @@
+body {
+    padding-bottom: 100px;
+}
+
+
+.profile-picts img {
+    padding-top: 80px;
+    border-radius: 100px;
+}
+
+.text-profile {
+    padding-top: 30px;
+}
+
+.my-about {
+    background-color: aquamarine;
+    padding-bottom: 20px;
+    border-radius: 15px;
+}
+
